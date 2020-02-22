@@ -1,0 +1,52 @@
+.icon {
+  max-width: 150px;
+  margin: 0 auto;
+  display: block;
+}
+
+.services section {
+  text-align: center;
+}
+
+.header {
+  margin: 0 auto;
+  display: block;
+  padding: 10px;
+
+  
+}
+
+h3{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	font-family: Tahoma;
+}
+
+.logo h1{
+	margin: 0 auto;
+	float: left;
+	
+
+}
+
+.footer{
+	background-color: black;
+	padding: 10px;
+	text-align: center;
+	color: white;
+}
+
+.footer a{
+	color: white;
+}
+
+.logo h2 {
+	text-align: center;
+	font-family: Courier New;
+	font-size: 50px;
+	
+	}
+	
