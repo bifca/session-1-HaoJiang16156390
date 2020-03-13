@@ -1,0 +1,1988 @@
+Array
+(
+[
+  cod
+] => 200
+[
+  message
+] => 0
+[
+  cnt
+] => 40
+[
+  list
+] => Array
+(
+[
+  0
+] => Array
+(
+[
+  dt
+] => 1584090000
+[
+  main
+] => Array
+(
+[
+  temp
+] => 279.7
+[
+  feels_like
+] => 268.86
+[
+  temp_min
+] => 277.98
+[
+  temp_max
+] => 279.7
+[
+  pressure
+] => 990
+[
+  sea_level
+] => 990
+[
+  grnd_level
+] => 970
+[
+  humidity
+] => 65
+[
+  temp_kf
+] => 1.72
+)
+
+[
+  weather
+] => Array
+(
+[
+  0
+] => Array
+(
+[
+  id
+] => 804
+[
+  main
+] => Clouds
+[
+  description
+] => 阴，多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 12.74
+[deg] => 256
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-13 09: 00: 00
+)
+
+[1] => Array
+(
+[dt] => 1584100800
+[main] => Array
+(
+[temp] => 279.99
+[feels_like] => 269.87
+[temp_min] => 278.7
+[temp_max] => 279.99
+[pressure] => 993
+[sea_level] => 993
+[grnd_level] => 973
+[humidity] => 61
+[temp_kf] => 1.29
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 500
+[main] => Rain
+[description] => 小雨
+[icon] => 10d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 11.59
+[deg] => 267
+)
+
+[rain] => Array
+(
+[3h] => 0.13
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-13 12: 00: 00
+)
+
+[2] => Array
+(
+[dt] => 1584111600
+[main] => Array
+(
+[temp] => 278.68
+[feels_like] => 270.99
+[temp_min] => 277.82
+[temp_max] => 278.68
+[pressure] => 996
+[sea_level] => 996
+[grnd_level] => 976
+[humidity] => 62
+[temp_kf] => 0.86
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 97
+)
+
+[wind] => Array
+(
+[speed] => 7.92
+[deg] => 267
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-13 15: 00: 00
+)
+
+[3] => Array
+(
+[dt] => 1584122400
+[main] => Array
+(
+[temp] => 276.83
+[feels_like] => 270.28
+[temp_min] => 276.4
+[temp_max] => 276.83
+[pressure] => 999
+[sea_level] => 999
+[grnd_level] => 978
+[humidity] => 71
+[temp_kf] => 0.43
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 803
+[main] => Clouds
+[description] => 多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 60
+)
+
+[wind] => Array
+(
+[speed] => 6.3
+[deg] => 258
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-13 18: 00: 00
+)
+
+[4] => Array
+(
+[dt] => 1584133200
+[main] => Array
+(
+[temp] => 275.3
+[feels_like] => 269.11
+[temp_min] => 275.3
+[temp_max] => 275.3
+[pressure] => 1000
+[sea_level] => 1000
+[grnd_level] => 979
+[humidity] => 79
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 800
+[main] => Clear
+[description] => 晴
+[icon] => 01n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 10
+)
+
+[wind] => Array
+(
+[speed] => 5.78
+[deg] => 247
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-13 21: 00: 00
+)
+
+[5] => Array
+(
+[dt] => 1584144000
+[main] => Array
+(
+[temp] => 274.91
+[feels_like] => 269.05
+[temp_min] => 274.91
+[temp_max] => 274.91
+[pressure] => 1001
+[sea_level] => 1001
+[grnd_level] => 980
+[humidity] => 82
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 802
+[main] => Clouds
+[description] => 多云
+[icon] => 03n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 29
+)
+
+[wind] => Array
+(
+[speed] => 5.34
+[deg] => 253
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-14 00: 00: 00
+)
+
+[6] => Array
+(
+[dt] => 1584154800
+[main] => Array
+(
+[temp] => 273.99
+[feels_like] => 268.85
+[temp_min] => 273.99
+[temp_max] => 273.99
+[pressure] => 1001
+[sea_level] => 1001
+[grnd_level] => 980
+[humidity] => 87
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 802
+[main] => Clouds
+[description] => 多云
+[icon] => 03n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 50
+)
+
+[wind] => Array
+(
+[speed] => 4.29
+[deg] => 240
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-14 03: 00: 00
+)
+
+[7] => Array
+(
+[dt] => 1584165600
+[main] => Array
+(
+[temp] => 275
+[feels_like] => 269.63
+[temp_min] => 275
+[temp_max] => 275
+[pressure] => 1000
+[sea_level] => 1000
+[grnd_level] => 979
+[humidity] => 83
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 802
+[main] => Clouds
+[description] => 多云
+[icon] => 03d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 35
+)
+
+[wind] => Array
+(
+[speed] => 4.68
+[deg] => 239
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-14 06: 00: 00
+)
+
+[8] => Array
+(
+[dt] => 1584176400
+[main] => Array
+(
+[temp] => 277.74
+[feels_like] => 271.94
+[temp_min] => 277.74
+[temp_max] => 277.74
+[pressure] => 999
+[sea_level] => 999
+[grnd_level] => 979
+[humidity] => 66
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 98
+)
+
+[wind] => Array
+(
+[speed] => 5.21
+[deg] => 229
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-14 09: 00: 00
+)
+
+[9] => Array
+(
+[dt] => 1584187200
+[main] => Array
+(
+[temp] => 279.5
+[feels_like] => 273.63
+[temp_min] => 279.5
+[temp_max] => 279.5
+[pressure] => 997
+[sea_level] => 997
+[grnd_level] => 977
+[humidity] => 53
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 92
+)
+
+[wind] => Array
+(
+[speed] => 5.06
+[deg] => 222
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-14 12: 00: 00
+)
+
+[10] => Array
+(
+[dt] => 1584198000
+[main] => Array
+(
+[temp] => 278
+[feels_like] => 272.67
+[temp_min] => 278
+[temp_max] => 278
+[pressure] => 997
+[sea_level] => 997
+[grnd_level] => 975
+[humidity] => 69
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 500
+[main] => Rain
+[description] => 小雨
+[icon] => 10d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 4.71
+[deg] => 219
+)
+
+[rain] => Array
+(
+[3h] => 0.31
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-14 15: 00: 00
+)
+
+[11] => Array
+(
+[dt] => 1584208800
+[main] => Array
+(
+[temp] => 269.6
+[feels_like] => 259.76
+[temp_min] => 269.6
+[temp_max] => 269.6
+[pressure] => 1000
+[sea_level] => 1000
+[grnd_level] => 979
+[humidity] => 84
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 601
+[main] => Snow
+[description] => 雪
+[icon] => 13n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 10.21
+[deg] => 349
+)
+
+[snow] => Array
+(
+[3h] => 2.63
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-14 18: 00: 00
+)
+
+[12] => Array
+(
+[dt] => 1584219600
+[main] => Array
+(
+[temp] => 267.55
+[feels_like] => 258.08
+[temp_min] => 267.55
+[temp_max] => 267.55
+[pressure] => 1003
+[sea_level] => 1003
+[grnd_level] => 982
+[humidity] => 82
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 600
+[main] => Snow
+[description] => 小雪
+[icon] => 13n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 9.37
+[deg] => 343
+)
+
+[snow] => Array
+(
+[3h] => 1.19
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-14 21: 00: 00
+)
+
+[13] => Array
+(
+[dt] => 1584230400
+[main] => Array
+(
+[temp] => 268.51
+[feels_like] => 259.96
+[temp_min] => 268.51
+[temp_max] => 268.51
+[pressure] => 1006
+[sea_level] => 1006
+[grnd_level] => 985
+[humidity] => 57
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 600
+[main] => Snow
+[description] => 小雪
+[icon] => 13n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 7.67
+[deg] => 333
+)
+
+[snow] => Array
+(
+[3h] => 0.31
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-15 00: 00: 00
+)
+
+[14] => Array
+(
+[dt] => 1584241200
+[main] => Array
+(
+[temp] => 267.85
+[feels_like] => 259.39
+[temp_min] => 267.85
+[temp_max] => 267.85
+[pressure] => 1008
+[sea_level] => 1008
+[grnd_level] => 986
+[humidity] => 65
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 7.64
+[deg] => 327
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-15 03: 00: 00
+)
+
+[15] => Array
+(
+[dt] => 1584252000
+[main] => Array
+(
+[temp] => 267.98
+[feels_like] => 259.54
+[temp_min] => 267.98
+[temp_max] => 267.98
+[pressure] => 1010
+[sea_level] => 1010
+[grnd_level] => 988
+[humidity] => 71
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 7.73
+[deg] => 331
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-15 06: 00: 00
+)
+
+[16] => Array
+(
+[dt] => 1584262800
+[main] => Array
+(
+[temp] => 269.8
+[feels_like] => 261.23
+[temp_min] => 269.8
+[temp_max] => 269.8
+[pressure] => 1012
+[sea_level] => 1012
+[grnd_level] => 990
+[humidity] => 67
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 600
+[main] => Snow
+[description] => 小雪
+[icon] => 13d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 8.04
+[deg] => 336
+)
+
+[snow] => Array
+(
+[3h] => 0.13
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-15 09: 00: 00
+)
+
+[17] => Array
+(
+[dt] => 1584273600
+[main] => Array
+(
+[temp] => 271.06
+[feels_like] => 262.19
+[temp_min] => 271.06
+[temp_max] => 271.06
+[pressure] => 1013
+[sea_level] => 1013
+[grnd_level] => 992
+[humidity] => 61
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 600
+[main] => Snow
+[description] => 小雪
+[icon] => 13d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 8.47
+[deg] => 335
+)
+
+[snow] => Array
+(
+[3h] => 0.19
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-15 12: 00: 00
+)
+
+[18] => Array
+(
+[dt] => 1584284400
+[main] => Array
+(
+[temp] => 270.31
+[feels_like] => 262.27
+[temp_min] => 270.31
+[temp_max] => 270.31
+[pressure] => 1016
+[sea_level] => 1016
+[grnd_level] => 994
+[humidity] => 72
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 600
+[main] => Snow
+[description] => 小雪
+[icon] => 13d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 7.46
+[deg] => 338
+)
+
+[snow] => Array
+(
+[3h] => 0.19
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-15 15: 00: 00
+)
+
+[19] => Array
+(
+[dt] => 1584295200
+[main] => Array
+(
+[temp] => 269.8
+[feels_like] => 262.5
+[temp_min] => 269.8
+[temp_max] => 269.8
+[pressure] => 1019
+[sea_level] => 1019
+[grnd_level] => 997
+[humidity] => 71
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 99
+)
+
+[wind] => Array
+(
+[speed] => 6.31
+[deg] => 344
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-15 18: 00: 00
+)
+
+[20] => Array
+(
+[dt] => 1584306000
+[main] => Array
+(
+[temp] => 269.19
+[feels_like] => 262.6
+[temp_min] => 269.19
+[temp_max] => 269.19
+[pressure] => 1021
+[sea_level] => 1021
+[grnd_level] => 999
+[humidity] => 71
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 5.23
+[deg] => 343
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-15 21: 00: 00
+)
+
+[21] => Array
+(
+[dt] => 1584316800
+[main] => Array
+(
+[temp] => 268.45
+[feels_like] => 262.71
+[temp_min] => 268.45
+[temp_max] => 268.45
+[pressure] => 1024
+[sea_level] => 1024
+[grnd_level] => 1002
+[humidity] => 74
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 803
+[main] => Clouds
+[description] => 多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 63
+)
+
+[wind] => Array
+(
+[speed] => 3.99
+[deg] => 331
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-16 00: 00: 00
+)
+
+[22] => Array
+(
+[dt] => 1584327600
+[main] => Array
+(
+[temp] => 267.61
+[feels_like] => 262.43
+[temp_min] => 267.61
+[temp_max] => 267.61
+[pressure] => 1026
+[sea_level] => 1026
+[grnd_level] => 1003
+[humidity] => 74
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 800
+[main] => Clear
+[description] => 晴
+[icon] => 01n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 0
+)
+
+[wind] => Array
+(
+[speed] => 3.09
+[deg] => 300
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-16 03: 00: 00
+)
+
+[23] => Array
+(
+[dt] => 1584338400
+[main] => Array
+(
+[temp] => 269.4
+[feels_like] => 264.03
+[temp_min] => 269.4
+[temp_max] => 269.4
+[pressure] => 1027
+[sea_level] => 1027
+[grnd_level] => 1005
+[humidity] => 59
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 800
+[main] => Clear
+[description] => 晴
+[icon] => 01d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 0
+)
+
+[wind] => Array
+(
+[speed] => 3.25
+[deg] => 257
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-16 06: 00: 00
+)
+
+[24] => Array
+(
+[dt] => 1584349200
+[main] => Array
+(
+[temp] => 274.32
+[feels_like] => 267.93
+[temp_min] => 274.32
+[temp_max] => 274.32
+[pressure] => 1026
+[sea_level] => 1026
+[grnd_level] => 1004
+[humidity] => 46
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 800
+[main] => Clear
+[description] => 晴
+[icon] => 01d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 8
+)
+
+[wind] => Array
+(
+[speed] => 4.86
+[deg] => 235
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-16 09: 00: 00
+)
+
+[25] => Array
+(
+[dt] => 1584360000
+[main] => Array
+(
+[temp] => 276.1
+[feels_like] => 269.02
+[temp_min] => 276.1
+[temp_max] => 276.1
+[pressure] => 1025
+[sea_level] => 1025
+[grnd_level] => 1003
+[humidity] => 51
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 803
+[main] => Clouds
+[description] => 多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 54
+)
+
+[wind] => Array
+(
+[speed] => 6.21
+[deg] => 237
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-16 12: 00: 00
+)
+
+[26] => Array
+(
+[dt] => 1584370800
+[main] => Array
+(
+[temp] => 275.01
+[feels_like] => 268.5
+[temp_min] => 275.01
+[temp_max] => 275.01
+[pressure] => 1024
+[sea_level] => 1024
+[grnd_level] => 1002
+[humidity] => 57
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 5.46
+[deg] => 236
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-16 15: 00: 00
+)
+
+[27] => Array
+(
+[dt] => 1584381600
+[main] => Array
+(
+[temp] => 273.8
+[feels_like] => 266.71
+[temp_min] => 273.8
+[temp_max] => 273.8
+[pressure] => 1024
+[sea_level] => 1024
+[grnd_level] => 1002
+[humidity] => 59
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 98
+)
+
+[wind] => Array
+(
+[speed] => 6.2
+[deg] => 236
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-16 18: 00: 00
+)
+
+[28] => Array
+(
+[dt] => 1584392400
+[main] => Array
+(
+[temp] => 273.57
+[feels_like] => 266.06
+[temp_min] => 273.57
+[temp_max] => 273.57
+[pressure] => 1023
+[sea_level] => 1023
+[grnd_level] => 1001
+[humidity] => 59
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 6.77
+[deg] => 236
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-16 21: 00: 00
+)
+
+[29] => Array
+(
+[dt] => 1584403200
+[main] => Array
+(
+[temp] => 273.37
+[feels_like] => 265.94
+[temp_min] => 273.37
+[temp_max] => 273.37
+[pressure] => 1021
+[sea_level] => 1021
+[grnd_level] => 1000
+[humidity] => 58
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 6.6
+[deg] => 227
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-17 00: 00: 00
+)
+
+[30] => Array
+(
+[dt] => 1584414000
+[main] => Array
+(
+[temp] => 273.08
+[feels_like] => 265.62
+[temp_min] => 273.08
+[temp_max] => 273.08
+[pressure] => 1020
+[sea_level] => 1020
+[grnd_level] => 998
+[humidity] => 59
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 6.63
+[deg] => 227
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-17 03: 00: 00
+)
+
+[31] => Array
+(
+[dt] => 1584424800
+[main] => Array
+(
+[temp] => 274.1
+[feels_like] => 266.82
+[temp_min] => 274.1
+[temp_max] => 274.1
+[pressure] => 1021
+[sea_level] => 1021
+[grnd_level] => 999
+[humidity] => 58
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 6.48
+[deg] => 236
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-17 06: 00: 00
+)
+
+[32] => Array
+(
+[dt] => 1584435600
+[main] => Array
+(
+[temp] => 274.3
+[feels_like] => 268.07
+[temp_min] => 274.3
+[temp_max] => 274.3
+[pressure] => 1021
+[sea_level] => 1021
+[grnd_level] => 1000
+[humidity] => 78
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 5.62
+[deg] => 237
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-17 09: 00: 00
+)
+
+[33] => Array
+(
+[dt] => 1584446400
+[main] => Array
+(
+[temp] => 275.6
+[feels_like] => 270.22
+[temp_min] => 275.6
+[temp_max] => 275.6
+[pressure] => 1022
+[sea_level] => 1022
+[grnd_level] => 1000
+[humidity] => 75
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 4.55
+[deg] => 240
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-17 12: 00: 00
+)
+
+[34] => Array
+(
+[dt] => 1584457200
+[main] => Array
+(
+[temp] => 275.1
+[feels_like] => 270.69
+[temp_min] => 275.1
+[temp_max] => 275.1
+[pressure] => 1022
+[sea_level] => 1022
+[grnd_level] => 1000
+[humidity] => 81
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 3.27
+[deg] => 241
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-17 15: 00: 00
+)
+
+[35] => Array
+(
+[dt] => 1584468000
+[main] => Array
+(
+[temp] => 274.52
+[feels_like] => 270.27
+[temp_min] => 274.52
+[temp_max] => 274.52
+[pressure] => 1023
+[sea_level] => 1023
+[grnd_level] => 1001
+[humidity] => 89
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 3.18
+[deg] => 221
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-17 18: 00: 00
+)
+
+[36] => Array
+(
+[dt] => 1584478800
+[main] => Array
+(
+[temp] => 274.4
+[feels_like] => 269.27
+[temp_min] => 274.4
+[temp_max] => 274.4
+[pressure] => 1022
+[sea_level] => 1022
+[grnd_level] => 1001
+[humidity] => 92
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 4.51
+[deg] => 229
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-17 21: 00: 00
+)
+
+[37] => Array
+(
+[dt] => 1584489600
+[main] => Array
+(
+[temp] => 274.3
+[feels_like] => 268.89
+[temp_min] => 274.3
+[temp_max] => 274.3
+[pressure] => 1021
+[sea_level] => 1021
+[grnd_level] => 1000
+[humidity] => 93
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 4.93
+[deg] => 225
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-18 00: 00: 00
+)
+
+[38] => Array
+(
+[dt] => 1584500400
+[main] => Array
+(
+[temp] => 274.61
+[feels_like] => 268.48
+[temp_min] => 274.61
+[temp_max] => 274.61
+[pressure] => 1019
+[sea_level] => 1019
+[grnd_level] => 998
+[humidity] => 91
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04n
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 5.96
+[deg] => 240
+)
+
+[sys] => Array
+(
+[pod] => n
+)
+
+[dt_txt] => 2020-03-18 03: 00: 00
+)
+
+[39] => Array
+(
+[dt] => 1584511200
+[main] => Array
+(
+[temp] => 275.1
+[feels_like] => 267.87
+[temp_min] => 275.1
+[temp_max] => 275.1
+[pressure] => 1018
+[sea_level] => 1018
+[grnd_level] => 996
+[humidity] => 76
+[temp_kf] => 0
+)
+
+[weather] => Array
+(
+[0] => Array
+(
+[id] => 804
+[main] => Clouds
+[description] => 阴，多云
+[icon] => 04d
+)
+
+)
+
+[clouds] => Array
+(
+[all] => 100
+)
+
+[wind] => Array
+(
+[speed] => 7.13
+[deg] => 238
+)
+
+[sys] => Array
+(
+[pod] => d
+)
+
+[dt_txt] => 2020-03-18 06: 00: 00
+)
+
+)
+
+[city] => Array
+(
+[id] => 524901
+[name] => Moscow
+[coord] => Array
+(
+[lat] => 55.7522
+[lon] => 37.6156
+)
+
+[country] => RU
+[timezone] => 10800
+[sunrise] => 1584071370
+[sunset] => 1584113313
+)
+
+)
